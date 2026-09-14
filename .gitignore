@@ -1,0 +1,14 @@
+.venv/
+.env
+**/.venv/
+backend/.venv312/
+data/zoo_auth.db
+__pycache__/
+.pytest_cache/
+.pytest_tmp/
+*.py[cod]
+.streamlit/secrets.toml
+.DS_Store
+.vscode/
+# Generated local reports
+docs/reports/*.local.md
